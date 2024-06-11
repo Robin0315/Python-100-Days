@@ -1,4 +1,4 @@
-from turtle import Turtle, Screen
+from turtle import *
 
 # 设置一些常量，以提高代码的可读性和可维护性
 STARTING_ANGLE = -30
